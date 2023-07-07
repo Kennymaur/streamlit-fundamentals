@@ -1,1 +1,13 @@
 streamlit
+black
+scikit-learn
+tableau
+pandas==1.4.4
+numpy==1.23.3
+seaborn==0.11.2
+re==2.2.1
+calplot==0.1.7.4
+os
+pickle==1.0
+regex
+xgboost==1.6.2
